@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/github/license/keyhorn/datetime.svg?maxAge=2592000)](https://github.com/keyhorn/datetime/LICENSE)
 [![Release](https://img.shields.io/github/release/keyhorn/datetime.svg?label=Release)](https://github.com/keyhorn/datetime/releases)
 
-Assertion library for Go
+Date and time library for Go
 
 ## Install
 
