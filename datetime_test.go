@@ -8,14 +8,7 @@ import (
 	"github.com/keyhorn/assert/matcher"
 )
 
-var not = matcher.Not
 var equalTo = matcher.EqualTo
-var empty = matcher.Empty
-
-// func TestFormat(t *testing.T) {
-// 	dt := Now()
-// 	assert.That(t, dt.Format("yyyy"), equalTo("2021"))
-// }
 
 func TestToday(t *testing.T) {
 	today := Today()
